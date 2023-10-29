@@ -1,8 +1,6 @@
-# Overview
+# Movie Database
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
+My Software it's here to keep track of the movies you have seen so far, rate them as you will and help you identify what kind of movies you like more. 
 
 {Describe your purpose for writing this software.}
 
