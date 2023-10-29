@@ -2,35 +2,37 @@
 
 My Software it's here to keep track of the movies you have seen so far, rate them as you will and help you identify what kind of movies you like more. 
 
-{Describe your purpose for writing this software.}
+I wrote this mostly cause I love movies and I haven't had the chance to watch any on a couple of months, I will add more features to count the ammount of times you have seen a movie, and many other things, stay tuned! 
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](http://youtube.link.goes.here)
 
 # Relational Database
 
-{Describe the relational database you are using.}
+I'm using SQLite with Python for my project! Here's the documentation: [SQLite](https://www.sqlite.org/index.html)
 
-{Describe the structure (tables) of the relational database that you created.}
+I created some editable tables that the user is actually capable of editing himself, haven't put many of them yet, 
+but this is just a start. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I like using VS Code for Python, lately I've been trying to get used to PyCharm, but it's still a work 
+in progress, anyway, I used the sqlite3 module on Python, which allows me to have a local database without 
+the need of a server anywhere, just my computer, of course I would like to have something different on the 
+future for when my Software has it's own app or site. 
 
-{Describe the programming language that you used and any libraries.}
+# Websites used:
 
-# Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3Schools](https://www.w3schools.com/sql/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Upcoming enhancements: 
 
-- Item 1
-- Item 2
-- Item 3
+- User interface
+- Add comments to movies
+- Seen marker
+- Seen counter 
+- Many others! 
+  
